@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  
+
     // Carta 1 - Curitiba
     char codigo1[] = "CT01";
     int populacao1 = 1773718;
